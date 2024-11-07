@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alana Barbershop",
+    "service": "Haircut massage & Spa",
+    "rating": "4.5",
+    "image": "assets/pics/barber1.jpg"
+  },
+  {
+    "name": "Hercha Barbershop",
+    "service": "Haircut & Styling",
+    "rating": "5.0",
+    "image": "assets/pics/barber2.jpg"
+  },
+  {
+    "name": "Barberking",
+    "service": "Haircut styling & massage",
+    "rating": "4.5",
+    "image": "assets/pics/barber3.jpg"
+  }
+]

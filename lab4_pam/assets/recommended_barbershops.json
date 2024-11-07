@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Master Piece Barbershop",
+    "service": "Haircut Styling",
+    "rating": "5.0",
+    "image": "assets/pics/barber4.jpg"
+  },
+  {
+    "name": "Varcity Barbershop Jogja",
+    "service": "Haircut Styling",
+    "rating": "4.5",
+    "image": "assets/pics/barber5.jpg"
+  },
+  {
+    "name": "Twinsky Monkey Barber",
+    "service": "Men Stuff",
+    "rating": "5.0",
+    "image": "assets/pics/barber6.jpg"
+  }
+]
